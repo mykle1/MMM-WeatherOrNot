@@ -76,13 +76,15 @@
 
 * Go to https://weatherwidget.io/
 
-#### Follow these directions
+### Click the Select Location button. Find your location and select it.
+
 ![](images/333.png)
 
-#### And follow these directions, too.
-![](images/444.png)
-#### The locationCode and location you need are under the red xxxxxxxxxx's. Enter those in config
+### Click the GET CODE button. You only need what is under the red xxxxxx's
 
+![](images/444.png)
+
+### Add those in your config entry.
 
 ## Font List
 
